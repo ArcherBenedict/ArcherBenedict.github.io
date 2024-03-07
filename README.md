@@ -15,4 +15,5 @@ Here is my newest infographic for my data journalism course
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1EM5nYfmocyzthQpUSU6ocEor-b2TOn0i4k7xZM84ghs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-![alt tag] (https://quartz.github.io/Chartbuilder/)
+
+![2023_NFL_Playoff_QBR_Playoff_QBR_chartbuilder](https://github.com/ArcherBenedict/ArcherBenedict.github.io/assets/160147428/519ada54-c8a3-4df0-b24c-3537672fd068)
