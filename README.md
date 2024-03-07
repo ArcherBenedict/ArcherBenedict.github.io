@@ -17,3 +17,4 @@ Here is my newest infographic for my data journalism course
 
 
 ![2023_NFL_Playoff_QBR_Playoff_QBR_chartbuilder](https://github.com/ArcherBenedict/ArcherBenedict.github.io/assets/160147428/519ada54-c8a3-4df0-b24c-3537672fd068)
+Infro from https://www.statmuse.com/nfl/ask/qb-rating-leaders-2023-postseason
