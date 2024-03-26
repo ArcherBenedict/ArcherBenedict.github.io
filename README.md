@@ -13,6 +13,7 @@ Here is my newest infographic for my data journalism course
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=10DbU6nN3qSALpHdClAzUly8slCb5G57nj5G9Pq8eS_0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+Here is a map of all the cities Olivia Rodrigo is performing at during her GUTS tour
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1roiY-cPA36NQbccmRsAKaQ2UbGuv2hM&ehbc=2E312F" width="640" height="480"></iframe>
 
 
